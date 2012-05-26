@@ -2,7 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
+    {% if page.title == 'index' %}
+    <title>{{ site.title }}</title>
+    {% else %}
+    <title>{{ page.title }} | {{ site.title }}</title>
+    {% endif %}
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
 
@@ -35,6 +39,8 @@
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
           </ul>
+
+          <span class="pull-right slogan"> {{ site.tagline }} </span>
         </div>
       </div>
     </div>

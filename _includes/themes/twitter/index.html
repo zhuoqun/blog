@@ -1,0 +1,10 @@
+{% assign latest_post = site.posts.first %}
+<div class="page-header">
+  <h1><a href="{{ latest_post.url }}" title="{{ latest_post.title }}">{{ latest_post.title }}</a> {% if latest_post.tagline %} <small>{{ latest_post.tagline }}</small>{% endif %}</h1>
+</div>
+
+<div class="row">
+  <div class="span12">
+    {{ latest_post.content }}
+  </div>
+</div>

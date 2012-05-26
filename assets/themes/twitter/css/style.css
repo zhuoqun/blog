@@ -12,6 +12,15 @@ html, body {
   text-align: center; /* center align it with the container */
 }
 
+/* Site slogan */
+.slogan {
+  padding: 10px 0 11px;
+  color: #000;
+  font-size: 20px;
+  font-weight: 800;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 30px rgba(255, 255, 255, 0.125);
+}
+
 /* The white background content wrapper */
 .content {
   background-color: #fff;
