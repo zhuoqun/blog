@@ -60,7 +60,7 @@ html, body {
   font-weight: 400;
 }
 
-.post p {
+.post p, .about p {
   text-indent: 2em;
   font-size:14px;
   line-height: 1.8;
@@ -79,8 +79,26 @@ html, body {
   font-weight: 400;
 }
 
-.pagination {
+.about .refer {
+  text-align:right;
+  color:#999;
+  margin-top: 4px;
+}
+
+.about .refer cite {
+  font-size:16px;
+  font-style: italic;
+}
+
+.pager {
   margin-top: 36px;
+}
+
+.pager a {
+  border: none;
+  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
 }
 
 h1.title {
