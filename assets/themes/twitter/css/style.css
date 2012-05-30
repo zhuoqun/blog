@@ -37,6 +37,42 @@ html, body {
 .page h2{
   font-size: 16px;
   line-height: 1.4;
+  margin: 4px 0;
+}
+
+.page h3 {
+  font-size: 14px;
+  line-height: 1.4;
+  margin: 4px 0;
+}
+
+.post h2 {
+  font-size: 18px;
+  line-height: 1.4;
+  margin-bottom: 4px;
+}
+
+.post h3 {
+  font-size: 16px;
+  line-height: 1.4;
+  margin-bottom: 4px;
+}
+
+.post .sidebar {
+  padding-top: 59px;
+}
+
+.post .sidebar .date {
+  margin-bottom: 10px;
+}
+
+.post .sidebar .date span {
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.pagination {
+  margin-top: 36px;
 }
 
 h1.title {
