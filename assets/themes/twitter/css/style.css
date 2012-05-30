@@ -36,26 +36,34 @@ html, body {
 
 .page h2{
   font-size: 16px;
-  line-height: 1.4;
+  line-height: 1.5;
   margin: 4px 0;
 }
 
 .page h3 {
   font-size: 14px;
-  line-height: 1.4;
+  line-height: 1.5;
   margin: 4px 0;
 }
 
 .post h2 {
   font-size: 18px;
-  line-height: 1.4;
-  margin-bottom: 4px;
+  line-height: 1.5;
+  margin-bottom: 9px;
+  font-weight: 400;
 }
 
 .post h3 {
   font-size: 16px;
-  line-height: 1.4;
-  margin-bottom: 4px;
+  line-height: 1.5;
+  margin-bottom: 9px;
+  font-weight: 400;
+}
+
+.post p {
+  text-indent: 2em;
+  font-size:14px;
+  line-height: 1.8;
 }
 
 .post .sidebar {
@@ -79,7 +87,7 @@ h1.title {
   margin-bottom: 20px;
   padding-bottom: 10px;
   font-size: 20px;
-  line-height: 1.4;
+  line-height: 1.5;
   border-bottom: 1px solid #eee;
 }
 
