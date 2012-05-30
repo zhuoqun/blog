@@ -2,8 +2,8 @@
 layout: post
 title: 第一篇
 description: ""
-category: coding
-tags: [first, 中文, 海盗]
+category: 随笔
+tags: [中文, 海盗]
 ---
 {% include JB/setup %}
 
