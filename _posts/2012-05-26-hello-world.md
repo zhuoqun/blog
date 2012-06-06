@@ -2,7 +2,7 @@
 layout: post
 title: 第一篇
 description: ""
-category: 随笔
+category: essays
 tags: [中文, 海盗]
 ---
 {% include JB/setup %}
