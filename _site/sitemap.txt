@@ -9,4 +9,5 @@ http://blog.zhuoqun.net/pages.html
 http://blog.zhuoqun.net/sitemap.txt
 http://blog.zhuoqun.net/tags.html
 
+http://blog.zhuoqun.net/2012/06/08/use-foreign-key-in-rails-associations.html
 http://blog.zhuoqun.net/2012/06/06/reborn.html
