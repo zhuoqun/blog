@@ -3,7 +3,7 @@ layout: post
 title: "从学习到创造"
 description: "从学习到创造的三个阶段"
 category: 随笔
-tags: [学习,转化,品味,完美]
+tags: [学习, 转化, 品味, 完美]
 ---
 {% include JB/setup %}
 
