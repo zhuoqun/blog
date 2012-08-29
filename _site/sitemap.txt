@@ -9,6 +9,7 @@ http://blog.zhuoqun.net/pages.html
 http://blog.zhuoqun.net/sitemap.txt
 http://blog.zhuoqun.net/tags.html
 
+http://blog.zhuoqun.net/2012/08/29/productivity-and-creativity.html
 http://blog.zhuoqun.net/2012/07/23/the-language-of-the-objects.html
 http://blog.zhuoqun.net/2012/06/25/from-learning-to-creating.html
 http://blog.zhuoqun.net/2012/06/10/body-building-and-creativity.html
