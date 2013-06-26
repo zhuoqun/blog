@@ -3,7 +3,7 @@ layout: post
 title: "多重人格"
 description: "互联网和现实生活中的多重人格如何共处"
 category: 随笔
-tags: [人格, 社交网络, 隐私, Quora]
+tags: [人格, 社交网络, 隐私, Quora, 生活]
 ---
 {% include JB/setup %}
 
