@@ -3,7 +3,7 @@ layout: post
 title: "保持沉默"
 description: "现在最好保持沉默。不参与反讽和解构。少言多行。"
 category: 随笔
-tags: [词语, 解构, 时代, 分析, 行动]
+tags: [词语, 解构, 时代, 营销, 行动]
 ---
 {% include JB/setup %}
 
