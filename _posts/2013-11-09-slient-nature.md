@@ -3,7 +3,7 @@ layout: post
 title: "沉默的大自然"
 description: ""
 category: 亲爱的 arya
-tags: [自然, 语言, 意义]
+tags: [自然, 语言, 意义, 抽象, 符号]
 ---
 {% include JB/setup %}
 
