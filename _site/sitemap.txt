@@ -9,6 +9,7 @@ http://blog.zhuoqun.net/pages.html
 http://blog.zhuoqun.net/sitemap.txt
 http://blog.zhuoqun.net/tags.html
 
+http://blog.zhuoqun.net/2014/01/12/i-dont-know.html
 http://blog.zhuoqun.net/2013/12/19/two-thoughts-about-ai.html
 http://blog.zhuoqun.net/2013/12/07/the-original-dream.html
 http://blog.zhuoqun.net/2013/11/30/the-meaning-of-travel.html
