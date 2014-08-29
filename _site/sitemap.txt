@@ -9,6 +9,7 @@ http://blog.zhuoqun.net/pages.html
 http://blog.zhuoqun.net/sitemap.txt
 http://blog.zhuoqun.net/tags.html
 
+http://blog.zhuoqun.net/2014/08/29/love-genius.html
 http://blog.zhuoqun.net/2014/06/28/examination.html
 http://blog.zhuoqun.net/2014/04/20/grow-up-at-30.html
 http://blog.zhuoqun.net/2014/03/29/spring.html
