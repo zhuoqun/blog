@@ -60,10 +60,17 @@ html, body {
   font-weight: 400;
 }
 
-.post p, .about p {
+.post p {
   text-indent: 2em;
+}
+
+.post p, .about p {
   font-size:14px;
   line-height: 1.8;
+}
+
+.about {
+  min-height: 400px;
 }
 
 .post .sidebar {

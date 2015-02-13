@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>创造者</title>
+ <title>偏见录</title>
  <link href="http://blog.zhuoqun.net/atom.xml" rel="self"/>
  <link href="http://blog.zhuoqun.net"/>
- <updated>2014-12-24T14:50:34+01:00</updated>
+ <updated>2015-02-13T19:57:12+01:00</updated>
  <id>http://blog.zhuoqun.net</id>
  <author>
    <name>zhuoqun</name>
