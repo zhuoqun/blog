@@ -9,6 +9,7 @@ http://blog.zhuoqun.net/pages.html
 http://blog.zhuoqun.net/sitemap.txt
 http://blog.zhuoqun.net/tags.html
 
+http://blog.zhuoqun.net/2015/08/12/wechat-platform.html
 http://blog.zhuoqun.net/2015/05/26/another-sort-of-honest.html
 http://blog.zhuoqun.net/2015/04/30/embarrassment.html
 http://blog.zhuoqun.net/2015/04/05/be-normal.html
