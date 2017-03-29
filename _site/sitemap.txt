@@ -1,13 +1,13 @@
 
-http://blog.zhuoqun.net/404.html
-http://blog.zhuoqun.net/about.html
-http://blog.zhuoqun.net/archive.html
+http://blog.zhuoqun.net/404
+http://blog.zhuoqun.net/about
+http://blog.zhuoqun.net/archive
 http://blog.zhuoqun.net/atom.xml
-http://blog.zhuoqun.net/categories.html
-http://blog.zhuoqun.net/index.html
-http://blog.zhuoqun.net/pages.html
+http://blog.zhuoqun.net/categories
+http://blog.zhuoqun.net/
+http://blog.zhuoqun.net/pages
 http://blog.zhuoqun.net/sitemap.txt
-http://blog.zhuoqun.net/tags.html
+http://blog.zhuoqun.net/tags
 
 http://blog.zhuoqun.net/2015/08/12/wechat-platform.html
 http://blog.zhuoqun.net/2015/05/26/another-sort-of-honest.html
