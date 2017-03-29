@@ -4,7 +4,7 @@
  <title>创造者</title>
  <link href="http://blog.zhuoqun.net/atom.xml" rel="self"/>
  <link href="http://blog.zhuoqun.net"/>
- <updated>2014-06-28T16:43:29+02:00</updated>
+ <updated>2017-03-29T18:18:36+02:00</updated>
  <id>http://blog.zhuoqun.net</id>
  <author>
    <name>zhuoqun</name>
@@ -13,11 +13,13 @@
 
  
  <entry>
-   <title>Sample</title>
-   <link href="http://blog.zhuoqun.net/2014/06/28/sample.html"/>
-   <updated>2014-06-28T00:00:00+02:00</updated>
-   <id>http://blog.zhuoqun.net/2014/06/28/sample</id>
-   <content type="html"></content>
+   <title>Hello World</title>
+   <link href="http://blog.zhuoqun.net/2017/03/29/hello-world.html"/>
+   <updated>2017-03-29T00:00:00+02:00</updated>
+   <id>http://blog.zhuoqun.net/2017/03/29/hello-world</id>
+   <content type="html">
+&lt;p&gt;This is a sample post.&lt;/p&gt;
+</content>
  </entry>
  
  
